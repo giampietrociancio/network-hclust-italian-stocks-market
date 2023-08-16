@@ -1,0 +1,41 @@
+﻿Column1;Ticker;Company Name;Industry;Sub-industry;Color (Industry);Color Name (Industry);Color (Sub-industry);Color Name (Sub-industry)
+1;A2A;A2A S.p.A.;Utilities;Utilities—Diversified;#808080;Gray;#FF0000;Red
+2;AMP;Amplifon SpA;Healthcare;Medical Distribution;#0000FF;Blue;#FFA500;Orange
+3;AZM;Azimut Holding S.p.A.;Financial Services;Asset Management;#00FFFF;Cyan;#FFFF00;Yellow
+4;BGN;Banca Generali S.p.A.;Financial Services;Banks—Regional;#00FFFF;Cyan;#00FF00;Green
+5;BMED;Banca Mediolanum S.p.A.;Financial Services;Banks—Regional;#00FFFF;Cyan;#00FF00;Green
+6;BMPS;Banca Monte dei Paschi di Siena S.p.A.;Financial Services;Banks—Regional;#00FFFF;Cyan;#00FF00;Green
+7;BAMI;Banco BPM S.p.A.;Financial Services;Banks—Regional;#00FFFF;Cyan;#00FF00;Green
+8;BPE;BPER Banca SpA;Financial Services;Banks—Regional;#00FFFF;Cyan;#00FF00;Green
+9;CPR;Davide Campari-Milano N.V.;Consumer Defensive;Beverages—Wineries & Distilleries;#FFFF00;Yellow;#00FFFF;Cyan
+10;CNHI;CNH Industrial N.V.;Industrials;Farm & Heavy Construction Machinery;#800080;Purple;#0000FF;Blue
+11;DIA;DiaSorin S.p.A.;Healthcare;Diagnostics & Research;#0000FF;Blue;#800080;Purple
+12;ENEL;Enel SpA;Utilities;Utilities—Diversified;#808080;Gray;#FF0000;Red
+13;ENI;Eni S.p.A.;Energy;Oil & Gas Integrated;#00FF00;Green;#FF7F50;Coral
+14;ERG;ERG S.p.A.;Utilities;Utilities—Renewable;#808080;Gray;#FFC0CB;Pink
+15;RACE;Ferrari N.V.;Consumer Cyclical;Auto Manufacturers;#FFA500;Orange;#A52A2A;Brown
+16;FBK;FinecoBank Banca Fineco S.p.A.;Financial Services;Banks—Regional;#00FFFF;Cyan;#00FF00;Green
+17;G;Assicurazioni Generali S.p.A.;Financial Services;Insurance—Diversified;#00FFFF;Cyan;#808080;Gray
+18;HER;Hera S.p.A.;Utilities;Utilities—Diversified;#808080;Gray;#FF0000;Red
+19;IP;Interpump Group S.p.A.;Industrials;Specialty Industrial Machinery;#800080;Purple;#800000;Maroon
+20;ISP;Intesa Sanpaolo S.p.A.;Financial Services;Banks—Regional;#00FFFF;Cyan;#00FF00;Green
+21;INW;Infrastrutture Wireless Italiane S.p.A.;Real Estate;Real Estate Services;#FFC0CB;Pink;#808000;Olive
+22;IG;Italgas S.p.A.;Utilities;Utilities—Regulated Gas;#808080;Gray;#008080;Teal
+23;IVG;Iveco Group N.V.;Industrials;Farm & Heavy Construction Machinery;#800080;Purple;#0000FF;Blue
+24;LDO;Leonardo S.p.A.;Industrials;Aerospace & Defense;#800080;Purple;#000080;Navy
+25;MB;Mediobanca Banca di Credito Finanziario S.p.A.;Financial Services;Banks—Regional;#00FFFF;Cyan;#00FF00;Green
+26;MONC;Moncler S.p.A.;Consumer Cyclical;Apparel Manufacturing;#FFA500;Orange;#4B0082;Indigo
+27;NEXI;Nexi S.p.A.;Technology;Software—Infrastructure;#A52A2A;Brown;#FFD700;Gold
+28;PIRC;Pirelli & C. S.p.A.;Consumer Cyclical;Auto Parts;#FFA500;Orange;#00FF00;Lime
+29;PST;Poste Italiane S.p.A.;Industrials;Conglomerates;#800080;Purple;#F0FFFF;Azure
+30;PRY;Prysmian S.p.A.;Industrials;Electrical Equipment & Parts;#800080;Purple;#DDA0DD;Plum
+31;REC;Recordati Industria Chimica e Farmaceutica S.p.A.;Healthcare;Drug Manufacturers—General;#0000FF;Blue;#FA8072;Salmon
+32;SPM;Saipem S.p.A.;Energy;Oil & Gas Equipment & Services;#00FF00;Green;#A0522D;Sienna
+33;SRG;Snam S.p.A.;Utilities;Utilities—Regulated Gas;#808080;Gray;#008080;Teal
+34;STLAM;Stellantis N.V.;Consumer Cyclical;Auto Manufacturers;#FFA500;Orange;#A52A2A;Brown
+35;STMMI;STMicroelectronics N.V. ;Technology;Semiconductors;#A52A2A;Brown;#4682B4;Steel Blue
+36;TIT;Telecom Italia S.p.A.;Communication Services;Telecom Services;#FF0000;Red;#DA70D6;Orchid
+37;TEN;Tenaris S.A.;Energy;Oil & Gas Equipment & Services;#00FF00;Green;#A0522D;Sienna
+38;TRN;Terna S.p.A.;Utilities;Utilities—Regulated Electric;#808080;Gray;#40E0D0;Turquoise
+39;UCG;UniCredit S.p.A.;Financial Services;Banks—Regional;#00FFFF;Cyan;#00FF00;Green
+40;UNI;UnipolSai Assicurazioni S.p.A.;Financial Services;Insurance—Diversified;#00FFFF;Cyan;#808080;Gray
