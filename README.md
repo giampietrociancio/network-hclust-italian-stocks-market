@@ -10,3 +10,6 @@ Data cleaning and computation of needed values.
 
 ### analysis.R
 Creation of plots in different fashions.
+
+### classification.csv
+Classification per Industry and Sub-industry of stocks under analysis. 
